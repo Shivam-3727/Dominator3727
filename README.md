@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dominator3727
+- 👋 Hi, I’m Shivam
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on any project
