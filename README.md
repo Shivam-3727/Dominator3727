@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivam
-- 👀 I’m interested in AI
+- 👀 I’m interested in CP,DS and AI
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me shivamsantoshmukhedkar2@gmail.com
